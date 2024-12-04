@@ -15,3 +15,4 @@ SO THAT I can organize and plan my business
 ## Mock-Up
 
 The following video shows an example of the application being used from the command line:
+[Employee.webm](https://github.com/user-attachments/assets/fab4626a-802e-4c32-8944-4b30035f7100)
