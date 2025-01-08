@@ -29,15 +29,15 @@ npm i mysql2 to connect to your MySQL database and perform queries.
 
 run command mysql -u -root -p to initilize MySQL, then type username and password to login:
 
-Test User
+```Test User
 
 username: Tester1
 password: Test1234
 database: employeeTracker_db
-
+```
 Welcome to the MySQL monitor
 
-type mysql> status to confirm connection with database.
+```type mysql> status to confirm connection with database.```
 
 run command node employeeTracker, or npm start to answer the prompts.
 
